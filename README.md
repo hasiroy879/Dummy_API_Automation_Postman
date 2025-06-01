@@ -18,7 +18,7 @@
   Hint: from Ac: Customer, to Ac: Merchant
 - The second Customer checks both balance and transaction statement.
 - The Merchant checks his balance.
-- 
+ 
 #### The api documentation link
 [Click here](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocumenter.getpostman.com%2Fview%2F39893426%2F2sB2jAaSx1%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExWG1RTlBFaXNXZzhsTGVwaAEe7EAjpI9Q8PXs8dTdOtZvyt1oJB_kjUOrH6LUrqmUGdHaUpLztMxHYAJ1yRE_aem_yVGVJxNbHy0KZlqaK_2zlw&h=AT1cziRHT1W-cZTejgMYLD4IG31CVQLt6jAwrtGcExUPesqqiwA42sxnTMppam_oA6uhDj29GRcl7h1dVHYEJyMX4V4yFON-zK3e7QJ6jYts9eih05kYyDduX4vbQ-Piy_-nOw)
 
